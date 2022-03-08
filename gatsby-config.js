@@ -5,7 +5,7 @@ module.exports = {
     title: '0nit Community',
     description: 'my theme'
   },
-  pathPrefix: "/0nit-community.github.io",
+  pathPrefix: "/",
   plugins: [
     'gatsby-plugin-sass',
     'gatsby-transformer-json',
