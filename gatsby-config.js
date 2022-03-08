@@ -2,9 +2,10 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif Theme',
+    title: '0nit Community',
     description: 'my theme'
   },
+  pathPrefix: "/0nit-community.github.io",
   plugins: [
     'gatsby-plugin-sass',
     'gatsby-transformer-json',
