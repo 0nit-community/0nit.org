@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/0nit-community/0nit-community.github.io",
+        "image": "/images/social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/0nit_Community",
+        "image": "/images/social/twitter.svg"
+    }
+]
