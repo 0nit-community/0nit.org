@@ -123,3 +123,7 @@ exclude:
     "node_modules",
     "package.json",
   ]
+
+name: 0nit Community
+description: クリエイターをゼロから支援していくコミュニティ
+url: https://community.nagisa.app
