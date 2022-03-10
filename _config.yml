@@ -95,3 +95,11 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - jekyll-seo-tag
+
+name: 0nit Community
+description: クリエイターをゼロから支援していくコミュニティ。
+url: https://community.nagisa.app
+
+twitter:
+  username: 0nit_Community
