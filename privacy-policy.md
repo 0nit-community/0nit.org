@@ -26,7 +26,7 @@ layout: page
      
 ## 著作権について
 当サイトで掲載している文章や画像などにつきましては、無断転載することを禁止します。   
-当サイトは著作権や肖像権の侵害を目的としたものではありません。著作権や肖像権に関して問題がございましたら、[お問い合わせフォーム](https://community.nagisa.app/contact/)よりご連絡ください。迅速に対応いたします。   
+当サイトは著作権や肖像権の侵害を目的としたものではありません。著作権や肖像権に関して問題がございましたら、[お問い合わせフォーム](https://community.nagisa.app/contact)よりご連絡ください。迅速に対応いたします。   
    
 ## リンクについて
 当ブログは基本的にリンクフリーです。リンクを行う場合の許可や連絡は不要です。   
@@ -35,4 +35,4 @@ layout: page
 ## 本ポリシー / サイトに関するお問い合わせ / その他お問合せ
 お問い合わせは以下のお問い合わせフォームか、lyrical-banter-0a(?)icloud.com までお問い合わせください。   
 ※受信専用のメールアドレスのため返信は、@icloud.comのランダムなメールアドレスより行わせていただきます。予め受信できる設定をお願いします。   
-[https://community.nagisa.app/contact/](https://community.nagisa.app/contact/)
+[https://community.nagisa.app/contact](https://community.nagisa.app/contact/)
