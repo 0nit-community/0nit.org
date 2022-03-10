@@ -1,129 +1,97 @@
-### VALUES YOU SHOULD CHANGE ###
+# WhatATheme
+markdown: kramdown
 
-# GENERAL SITE SETTINGS
-# title: This will be displayed as the website's name in your browser tab.
-title: 0nit Community | クリエイターをゼロから支援していくコミュニティ
-# description: This will be meta HTML tag content. This can be ignored.
-description: クリエイターをゼロから支援していくコミュニティ
-# baseurl: The subpath of your site
-# > set this to "", if you renamed the repository to <user>.github.io
-baseurl: ""
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
 
-# LANDING PAGE
-# username: This will displayed on the landing page as your name.
-username: 0nit Communtiy
-# typing_text: This will be typed before 'scroll down for more'.
-# > set this to your job title, e.g. Fullstack Developer
-typing_text: クリエイターをゼロから支援するコミュニティ
-# email: Your E-Mail address for the email button.
-email: github@mail.k4133.tech
-# For every social button you want to display, set your username or userid
-# If you do not use one of the following websites, then leave it empty
-# > twitter_username:
-github_username: 0nit-community
-twitter_username: 0nit_community
+# Title of the Site
+title: What A Theme
+# Description of the Site
+description: A customizable Jekyll portfolio theme
+# URL of Image of the Site
+site-image: /WhatATheme/assets/images/meta.jpg
+# Keywords of the Site
+site-keywords: Site, Template, Theme
+# URL for the Image of custom Favicon
+favicon-url: 
 
-# ABOUT ME SECTION
-# show_aboutme_card:
-# > setting this to true, will display the About Me section
-# > setting this to false, will omit the About Me section
-show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Community
-# about_me_description: This will be displayed under the title.
-about_me_description: クリエイター（ボカロP、アーティスト、イラストレーター、ゲームクリエイター、デベロッパー）を"ゼロ"から支援していくコミュニティ。
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
-# SKILLS SECTION
-# show_skills_card:
-# > setting this to true, will display the Skills section
-# > setting this to false, will omit the Skills section
-show_skills_card: true
-# about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: thedevslot@gmail.com
+facebook_username: thedevslot
+twitter_username: thedevslot
+instagram_username: thedevslot
+linkedin_username: thedevslot
+github_username:  thedevslot
+youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+reddit_username: /
+behance_username: /
+dribbble_username: /
+spotify_username: /
 
-# TIMELINE SECTION
-# show_timeline_card:
-# > setting this to true, will display the Timeline section
-# > setting this to false, will omit the Timeline section
-show_timeline_card: true
-# timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: History
-# cv_download_link: The link where you host your cv.
-# > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://communtiy.nagisa.app
+# Google Analytics
+google-analytics: UA-163806439-1
 
-# PROJECTS SECTION
-# show_projects_card:
-# > setting this to true, will display the Projects section
-# > setting this to false, will omit the Projects section
-show_projects_card: true
-# show_projects:
-# > setting this to true, will display your listed projects in _data/projects.yml
-# > setting this to false, will omit your listed projects
-show_projects: true
-# projects_title: The will be displayed as the title of your projects
-projects_title: Initiative
-# show_os_projects:
-# > setting this to true, will display your public projects on github
-# > setting this to false, will omit your public projects on github
-show_os_projects: true
-# os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+# Disqus
+disqus-shortname: thedevslot
 
-# CONTACT SECTION
-# show_contact_card:
-# > setting this to true, will display the Contact section
-# > setting this to false, will omit the Contact section
-show_contact_card: true
-# contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
-# contact_description: This will be displayed under the title.
-contact_description: コミュニティへの問い合わせがある場合は、TwitterのDM機能までお問い合わせください。
+# Name of the Author
+author-name: TheDevsLot
+# URL for the Image of the Author
+author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+# 60 Words About the Author
+author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://github.com/thedevslot
 
-# GITHUB-METADATA
-# Set this to your forked repository
-# > e.g. <user>/<user>.github.io
-repository: 0nit-community/community.nagisa.app
-projects:
-  # sortby:
-  # > set this to pushed, if you want to sort your github repositories by time.
-  # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: pushed
-  exclude:
-    # archived:
-    # > setting this to true, will exclude archived repositories
-    # > setting this to false, will also display archived repositories
-    archived: true
-    # forks:
-    # > setting this to true, will exclude forked repositories
-    # > setting this to false, will also display forked repositories
-    forks: true
-    # projects: A list of the repository names you want to exclude from the listing.
-    projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# GOOGLE-ANALYTICS
-# Set the id, if you want to track your website with Google Analytics
-# > set this to "", if you do not want to track with Google Analytics
-google-analytics:
-  id: ""
-
-### END OF VALUES YOU SHOULD CHANGE ###
-
+# Build settings
 plugins:
-  - "jekyll-github-metadata"
+  - jekyll-admin
+  - jekyll-feed
 
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
 exclude:
-  [
-    "_assets",
-    "Gemfile",
-    "Gemfile.lock",
-    "gulpfile.js",
-    "node_modules",
-    "package.json",
-  ]
-
-name: 0nit Community
-description: クリエイターをゼロから支援していくコミュニティ
-url: https://community.nagisa.app
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
